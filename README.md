@@ -2,7 +2,7 @@
 ## Original Projekt
 https://github.com/tigard-tools/tigard
 ## iBOM
-[ibom.html](https://html-preview.github.io/?url=https://github.com/casartar/https://github.com/casartar/MyTigard/blob/main/ibom.html)
+[ibom.html](https://html-preview.github.io/?url=https://github.com/casartar/MyTigard/blob/main/ibom.html)
 ## Kosten
 30€
 ## Anleitung
