@@ -3,8 +3,13 @@
 https://github.com/tigard-tools/tigard
 ## iBOM
 [ibom.html](https://html-preview.github.io/?url=https://github.com/casartar/MyTigard/blob/main/ibom.html)
-## Kosten
-30€
+
+## Test Projekt
+- Hardware: Black Pill
+- IDE: VS Code
+- Plugin: Cortex Debug
+
+https://github.com/casartar/BlackPillUniversalTester/tree/main
 ## Anleitung
 
 1. Lötpaste auf Platine aufrakeln
